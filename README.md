@@ -54,3 +54,10 @@ pom.xml 文件是 Maven 的主要配置文件，配置项目的 `groupId`、`art
 - groupId：组织名称，可表示为公司下的某个项目，例如：com.zeroten.javales 表示ZeroTen旗下的Java课程项目
 - artifactId：项目里某个模块，例如：java-les-maven-example 表示Java课程项目下的Maven示例模块
 - verion：版本号，例如：1.0.0
+
+
+- 20191229
+
+- 学习git，maven的简单使用
+
+- 学习流程控制语句
